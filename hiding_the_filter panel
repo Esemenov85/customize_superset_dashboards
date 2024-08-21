@@ -1,0 +1,4 @@
+/* Скрытие фильтр-панели */
+  div[data-test=dashboard-filters-panel] {
+      display: none;
+  }
