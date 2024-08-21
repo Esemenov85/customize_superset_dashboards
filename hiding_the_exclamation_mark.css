@@ -1,0 +1,4 @@
+/* Скрытие восклицательного знака */
+  .header-controls > .has-incompatible-filters {
+    display: none;   
+  }
